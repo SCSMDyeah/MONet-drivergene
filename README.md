@@ -8,7 +8,7 @@ utils.py functions used in MONet.
 StratifiedKFold.py used for k-fold cross-validation.
 
 # Implementation
-Step 1: Download the data according to the instructions in file dataset.txt.
-Step2: Open MONet.py to run MONet.
+- Step 1: Download the data according to the instructions in file dataset.txt.
+- Step2: Open MONet.py to run MONet.
 
 Tips:If you want to validate the k-fold cross-validation, you can run StratifiedKFold.py.
