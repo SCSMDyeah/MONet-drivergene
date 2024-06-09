@@ -3,9 +3,9 @@ The progression of cancer results from the accumulation of driver gene mutations
 
 # Overview
 Here we provide the code implementation of MONet. MONet runs in a Python environment.
-MONet.py the implementation of MONet.
-utils.py functions used in MONet.
-StratifiedKFold.py used for k-fold cross-validation.
+- MONet.py the implementation of MONet.
+- utils.py functions used in MONet.
+- StratifiedKFold.py used for k-fold cross-validation.
 
 # Implementation
 - Step 1: Download the data according to the instructions in file dataset.txt.
